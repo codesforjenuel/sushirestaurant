@@ -1,9 +1,10 @@
 
 
 body {
+  
 color: white;
 background: black;
-background-image: url(./images/sushis.jpg);
+background-image: url(../images/sushis.jpg);
 background-attachment: fixed;
 background-repeat: no-repeat;
 background-size: cover;
@@ -11,6 +12,10 @@ display: flex;
 align-items: center;
 margin: 0;
 
+}
+
+.navBox {
+  width: 100%;
 }
 
 .bannerImg {
@@ -74,5 +79,7 @@ a {
    text-align:end;
 }
 .locationBox {
+ 
+  width: 100%;
  text-align: center;
 }
