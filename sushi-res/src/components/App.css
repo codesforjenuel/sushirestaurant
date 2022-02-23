@@ -84,6 +84,7 @@ a {
  text-align: center;
 }
 .menuContainer {
+  width: 100%;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -97,14 +98,29 @@ a {
   flex-direction: column;
   align-items: center;
 height: 300px;
-width: 50%;
+width: 30%;
+}
+
+h1 {
+  text-align: center;
 }
 
 h3{
   text-align: center;
 }
-
+h6 {
+  text-align: center;
+}
 .itemImg {
   width:200px;
   height: 250px;
+}
+.sushiContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  align-content: center;
 }
