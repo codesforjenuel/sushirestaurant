@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.24c8636e.css",
+    "main.js": "/static/js/main.40b232ba.js",
+    "static/media/kyotobanner.jpg": "/static/media/kyotobanner.276cab7678bf58bc80ce.jpg",
+    "static/media/sushirestaurant.jpg": "/static/media/sushirestaurant.0f149fc103722910deae.jpg",
+    "static/media/sushis.jpg": "/static/media/sushis.a21fa6e756ea714efa83.jpg",
+    "index.html": "/index.html",
+    "main.24c8636e.css.map": "/static/css/main.24c8636e.css.map",
+    "main.40b232ba.js.map": "/static/js/main.40b232ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24c8636e.css",
+    "static/js/main.40b232ba.js"
+  ]
+}
