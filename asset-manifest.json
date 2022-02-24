@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sushirestaurant/static/css/main.3500707a.css",
-    "main.js": "/sushirestaurant/static/js/main.2f0de3c0.js",
-    "static/media/kyotobanner.jpg": "/sushirestaurant/static/media/kyotobanner.276cab7678bf58bc80ce.jpg",
-    "static/media/sushirestaurant.jpg": "/sushirestaurant/static/media/sushirestaurant.0f149fc103722910deae.jpg",
-    "static/media/sushis.jpg": "/sushirestaurant/static/media/sushis.a21fa6e756ea714efa83.jpg",
-    "index.html": "/sushirestaurant/index.html",
-    "main.3500707a.css.map": "/sushirestaurant/static/css/main.3500707a.css.map",
-    "main.2f0de3c0.js.map": "/sushirestaurant/static/js/main.2f0de3c0.js.map"
+    "main.css": "/static/css/main.24c8636e.css",
+    "main.js": "/static/js/main.40b232ba.js",
+    "static/media/kyotobanner.jpg": "/static/media/kyotobanner.276cab7678bf58bc80ce.jpg",
+    "static/media/sushirestaurant.jpg": "/static/media/sushirestaurant.0f149fc103722910deae.jpg",
+    "static/media/sushis.jpg": "/static/media/sushis.a21fa6e756ea714efa83.jpg",
+    "index.html": "/index.html",
+    "main.24c8636e.css.map": "/static/css/main.24c8636e.css.map",
+    "main.40b232ba.js.map": "/static/js/main.40b232ba.js.map"
   },
   "entrypoints": [
-    "static/css/main.3500707a.css",
-    "static/js/main.2f0de3c0.js"
+    "static/css/main.24c8636e.css",
+    "static/js/main.40b232ba.js"
   ]
 }
