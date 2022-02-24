@@ -18,7 +18,7 @@ export default function Menu() {
                 </div>
                 <div className='itemContainer'>
                     <h3>Chicken Katsu</h3>
-                    <img src='https://norecipes.com/wp-content/uploads/2020/06/chicken-katsu-003.jpg' alt='Chicken Katsu' className='itemImg' />
+                    <img src='https://christieathome.com/wp-content/uploads/2021/12/Chicken-Katsu-Updated-3.jpg' alt='Chicken Katsu' className='itemImg' />
                     <h4>$7.99</h4>
                 </div>
                 <div className='itemContainer'>

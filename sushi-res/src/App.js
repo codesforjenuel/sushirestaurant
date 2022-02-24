@@ -6,6 +6,7 @@ import Nav from './NavBar'
 import Location from './components/Location'
 import Contact from './components/Contact'
 import Menu from './components/Menu'
+import Footer from './components/Footer'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 export default function App() {
     return (
@@ -21,6 +22,7 @@ export default function App() {
           <Route path="/Menu" element={<Menu />} />
       </Routes>
       </Router>
+      <Footer />
     </>
     )
 }
