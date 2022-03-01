@@ -150,6 +150,9 @@ h6 {
   align-items: center;
   align-content: center;
 }
+
+
+
 @media only screen and (max-width: 768px) {
 .deliveryCon{
   flex-wrap: wrap;
@@ -186,3 +189,26 @@ margin-bottom: 50%;
 
   }
 }
+
+@media only screen and (max-width: 450px) {
+ .aboutBox {
+  align-items: center;
+ }
+
+ .header1 {
+   margin-left: 0%;
+ }
+ .header2 {
+   margin-right: 0%;
+ }
+
+ .theRoots {
+   align-items: center;
+ }
+
+.deliveryCon{
+  flex-direction: column;
+  align-content: center;
+}
+  
+  }

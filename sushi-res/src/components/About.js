@@ -6,10 +6,10 @@ export default function About() {
         <>
         <div className='aboutBox'>
             <h1 className='header1'>The Spot</h1>
-           <p className='par1'>Lorem ipsum odor amet, consectetuer adipiscing elit. Senectus etiam lectus dis turpis torquent pretium. Sem facilisi velit, vivamus varius est luctus libero posuere. Proin suscipit fusce quis velit class convallis. Potenti amet lobortis vehicula iaculis facilisis. Ridiculus sollicitudin sagittis leo felis ipsum potenti. Nascetur tincidunt vitae viverra; maecenas aptent ultricies. Adipiscing posuere id habitasse fermentum vivamus ipsum a.
-
-Suscipit eleifend cursus consectetur aliquet sapien nascetur. At ut nec class eget blandit arcu semper. Praesent dolor sem, arcu id pharetra scelerisque maximus malesuada. Ut cursus sed maximus pulvinar finibus ipsum. Vitae nulla posuere mus scelerisque pretium vel laoreet pretium. Accumsan eget placerat nam curae eu. Ipsum lectus senectus non etiam auctor consequat.
-
+           <p className='par1'>
+The Sushi Spot is a Japanese restaurant that provides all customers with the best traditional experience
+and the best quality food in Orange County California. Dine in has been designed with a classical and traditional
+look to give the environment of an old Japan with modern touches while you enjoy fresh sushi and delicios plates. 
 </p>
            
         </div>
@@ -18,9 +18,9 @@ Suscipit eleifend cursus consectetur aliquet sapien nascetur. At ut nec class eg
 
 <p className='par2'>
 <img src={ kyoto } alt = 'image of kyoto city in Japan' className='kyoto' />    
-Lorem ipsum odor amet, consectetuer adipiscing elit. Senectus etiam lectus dis turpis torquent pretium. Sem facilisi velit, vivamus varius est luctus libero posuere. Proin suscipit fusce quis velit class convallis. Potenti amet lobortis vehicula iaculis facilisis. Ridiculus sollicitudin sagittis leo felis ipsum potenti. Nascetur tincidunt vitae viverra; maecenas aptent ultricies. Adipiscing posuere id habitasse fermentum vivamus ipsum a.
-
-Suscipit eleifend cursus consectetur aliquet sapien nascetur. At ut nec class eget blandit arcu semper. Praesent dolor sem, arcu id pharetra scelerisque maximus malesuada. Ut cursus sed maximus pulvinar finibus ipsum. Vitae nulla posuere mus scelerisque pretium vel laoreet pretium. Accumsan eget placerat nam curae eu. Ipsum lectus senectus non etiam auctor consequat.  
+The Sushi Spot was founded by Mr "Yuto Nakamura" on 1974 in Kyoto Japan, using the recipes passed down by his family
+he was able to open his first restaurant that would be passed down in 2001 to his son "Sota Nakamura" who in 2009 would expand all
+the way to California to open the first Sushi Spot restaurant in Irvine California. 
 </p>
 </div>
         </>
