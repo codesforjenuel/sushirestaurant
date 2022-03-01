@@ -36,9 +36,13 @@ export default function Menu() {
                     <img src='https://www.hyattrestaurants.com/uploaded/videoalternates/videoalternate_Screen-Shot-2021-05-11-at-3-09-18-PM.jpg' alt='Bento Box' className='itemImg' />
                     <h4>$15.99</h4>
                 </div>
+                 </div>  
                 <h1>Sushi Menu</h1>
-                <h6>6 rolls for $6.99 or 8 rolls for 7.99</h6>
+               <h6>6 rolls for $6.99 or 8 rolls for 7.99</h6>
                 <div className='sushiContainer'> 
+              
+             
+              <div  className='menuContainer'>
                 
                 <div className='itemContainer'>
                     <h3>California Roll</h3>
@@ -68,11 +72,11 @@ export default function Menu() {
                 <div className='itemContainer'>
                     <h3>Spicy Tuna Roll</h3>
                     <img src='https://i.pinimg.com/originals/ae/e3/17/aee317488f030db63c6a09f02fc2728a.jpg' alt='Spicy Tuna Roll' className='itemImg' />
-                    
+                    </div>
                 </div>
                 </div>
                 
-            </div>
+            
         </div>
     )
 }
