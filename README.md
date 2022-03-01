@@ -15,7 +15,7 @@ development of the website.
 This app has been pushed to heroku nad has been fully tested for responsiveness,
 here is a screenshot of the website running and a link to test the website yourself.
 
-![screenshot](./src/images/website-screenshot.jpg)
+![screenshot](./sushi-res/src/images/website-screenshot.jpg)
 
 
 https://sushi-spot.herokuapp.com/
