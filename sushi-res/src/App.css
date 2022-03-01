@@ -15,6 +15,12 @@ margin: 0;
 
 }
 
+.homeContainer{
+  display: flex;
+  flex-direction: column;
+  
+}
+
 .navBox {
   width: 100%;
 }
@@ -29,6 +35,11 @@ margin: 0;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.deliveryImg {
+  width: 100px;
+  height: 100px;
 }
 
 
@@ -139,7 +150,19 @@ h6 {
   align-items: center;
   align-content: center;
 }
+@media only screen and (max-width: 768px) {
+.deliveryCon{
+  flex-wrap: wrap;
+  align-content: center;
+}
 
+.deliveryImg {
+  width: 200px;
+  height: 200px;
+  margin: 10%;
+}
+
+}
 
 
 @media only screen and (max-width: 642px) {
@@ -155,5 +178,11 @@ h6 {
   .itemContainer {
     height: 400px;
     margin: 30px;
+  }
+
+  .homeContainer {
+margin-top: 30%;
+margin-bottom: 50%;
+
   }
 }
